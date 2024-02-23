@@ -1,0 +1,4 @@
+1 pdfplumber: A library for extracting text from PDF files.
+2 nltk: Natural Language Toolkit, used for tokenization and other natural language processing tasks.
+3 langdetect: A library for language detection.
+4 Ensure re (regular expression) library is available; it's a built-in Python module and should be available by default.
